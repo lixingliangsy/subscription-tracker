@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subscription-tracker.com/sitemap.xml
